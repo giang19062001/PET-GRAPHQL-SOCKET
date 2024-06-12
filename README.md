@@ -1,0 +1,2 @@
+NEXTAUTH_GG_CLIENT_ID='617559299759-p1f8v8nn4hs6s0h1qkiskmsheis4nf1q.apps.googleusercontent.com'
+NEXTAUTH_GG_CLIENT_SECRET='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'
